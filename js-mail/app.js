@@ -9,4 +9,9 @@ const list = [
     'lucy@gmail.com',
     'jimmi@gmail.com'
 ]
+// chiedere all'utente la sua mail
+const emailUsers = prompt('Please enter your email');
+// variabile di controllo
+let isEmailPresent = false ;
+
 
